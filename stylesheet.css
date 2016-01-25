@@ -1,0 +1,23 @@
+
+body {
+	background-color: white;
+}
+#grid {
+	height: 25px;
+	width: 25px;
+	margin-right: 10px;
+	background-color: black;
+	display: inline-block;
+}
+#container {
+	margin-top: 25px;
+	margin-left: 25px;
+}
+button {
+	height: 50px;
+	width: 125px;
+	border-radius: 5px;
+	background-color: black;
+	color: white;
+	display: block;
+}
